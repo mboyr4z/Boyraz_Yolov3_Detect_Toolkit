@@ -1,0 +1,17 @@
+
+QLabel{
+    background:#760925;
+}
+
+
+QPushButton{
+background:white;
+}
+
+QPushButton:hover{
+background:#760925;
+color:white;
+border:3px solid;
+border-color:white;
+
+}
