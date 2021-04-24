@@ -2,6 +2,7 @@
 
 
 ## Requirements for using the program
+- "pip3 install -r requirements.txt"
 - .weights, .cfg and .names files for YOLOV3
 - video and image file ( and WebCam :) )
 ##THATS IT
